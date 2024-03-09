@@ -1,0 +1,26 @@
+{
+  "name": "15ki-jojo-ghtui",
+  "version": "1.0.0",
+  "description": "An advanced home security system integrated with artificial intelligence and smart sensors, offering enhanced protection against intrusions and real-time alert notifications.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/235125326mil/15.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "235125326mil",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}

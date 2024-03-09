@@ -1,0 +1,1 @@
+An advanced home security system integrated with artificial intelligence and smart sensors, offering enhanced protection against intrusions and real-time alert notifications.
